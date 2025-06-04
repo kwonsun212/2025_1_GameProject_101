@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afd781c459319ad46b61e3913cf35b5e, type: 3}
+  m_Name: Dialogue_Character_002
+  m_EditorClassIdentifier: 
+  characterName: "\uBAB0?\uB8E8"
+  characterImage: {fileID: 21300000, guid: 9be388a5aba231344a2c181eb4aef458, type: 3}
+  dialogueLines:
+  - "\uC774\uB4F1\uBAB8\uC7A5"

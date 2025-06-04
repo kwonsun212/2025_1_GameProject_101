@@ -45,7 +45,7 @@ public class SimpleTurnmanager : MonoBehaviour
     public static void OnBallHit()
     {
         canPlay = false;
-        anyBallMoving = true;
+        anyBallMoving = true;           
         Debug.Log("턴 시작! 공이 멈출 때까지 기다리세요.");
     }
 }
